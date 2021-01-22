@@ -2,7 +2,7 @@
 
 based off of the Pep 8 machine
 
-input.txt is the input file
+input.txt is the input file,
 instructions seperated by line
 
 example:
